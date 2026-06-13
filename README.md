@@ -54,21 +54,6 @@ A comprehensive **Hospital Management System** that streamlines hospital operati
 - ✅ Billing and invoicing module
 
 **Tech Stack:** Core Java, OOP Principles, File I/O, Console-based UI
-
----
-
-### 🌐 R3BAN Web Application
-[![Repository](https://img.shields.io/badge/GitHub-R3BAN-181717?style=for-the-badge&logo=github)](https://github.com/parth9860/r3ban)
-[![Eclipse](https://img.shields.io/badge/Eclipse-IDE-2C2255?style=flat-square&logo=eclipse&logoColor=white)](https://www.eclipse.org/)
-
-A dynamic **web application** built with modern Java web technologies:
-- 🎯 Enterprise-grade web architecture
-- 📱 Responsive frontend design
-- 🔄 Integrated JavaScript functionality
-- ⚙️ Eclipse project with faceted development setup
-
-**Tech Stack:** Java, JSP/Servlets, HTML5/CSS3, JavaScript, Eclipse IDE, Dynamic Web Module
-
 ---
 
 ## 🏗️ Development Environment
