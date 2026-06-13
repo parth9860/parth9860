@@ -1,48 +1,58 @@
-# Hi there, I'm [Your Name]! 👋
+# 👋 Hi there, I'm Parth Nanaji Ahire
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Tech+Blogger" alt="Typing SVG" />
-</p>
+[![GitHub followers](https://img.shields.io/github/followers/parth9860?label=Follow&style=social)](https://github.com/parth9860)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:parthaahire12@gmail.com)](mailto:parthaahire12@gmail.com)
 
----
+## 🚀 About Me
 
-### 🚀 About Me
+I'm a passionate **software developer** from India who loves building practical solutions that make a difference. I enjoy turning complex problems into simple, elegant code.
 
-I am a passionate **[Your Profession, e.g., Software Engineer / UI/UX Designer / Data Scientist]** from **[Your Location]**. I love building things that live on the internet and solving complex problems.
-
-- 🔭 I’m currently working on **[Project Name or Tech Stack]**
-- 🌱 I’m currently learning **[A New Tech or Tool]**
-- 💬 Ask me about **[Topics you love, e.g., React, Python, Anime]**
-- ✉️ How to reach me: **[Your Email]** or **[LinkedIn Link]**
+- 🔭 I’m currently working on **Hospital Management System (HMS)**
+- 🌱 I’m currently learning **Advanced Java & Database Management**
+- 💬 Ask me about **Java, Web Development, or Hospital Management Systems**
+- 📫 How to reach me: **parthaahire12@gmail.com**
+- ⚡ Fun fact: I believe code is like poetry - it should be clean, expressive, and meaningful!
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend** | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) |
-| **Backend** | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-| **Tools & Database**| ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical" alt="Your Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=radical" alt="Your Streak" width="48%" />
-</p>
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ---
 
-### 🤝 Connect with Me
+## 📈 GitHub Stats
 
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/YOUR-TWITTER" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
-  </a>
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=parth9860&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth9860&layout=compact&theme=radical&hide_border=true" />
+</div>
+
+---
+
+## ✨ Featured Project
+
+### 🏥 Hospital Management System (HMS)
+[![Repository](https://img.shields.io/badge/GitHub-HMS-181717?style=for-the-badge&logo=github)](https://github.com/parth9860/HMS)
+
+A comprehensive **Hospital Management System** built with Java that streamlines hospital operations including:
+- Patient registration and management
+- Doctor scheduling
+- Appointment booking
+- Billing and invoicing
+
+**Tech Stack:** Java, OOP principles, File Handling
+
+---
+
+## 📊 Weekly Development Breakdown
+
+```text
+Java          ████████████████████░   85%
+HTML/CSS      ███░░░░░░░░░░░░░░░░░   10%
+Git/GitHub    █░░░░░░░░░░░░░░░░░░░   5%
