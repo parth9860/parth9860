@@ -78,9 +78,9 @@ I am a **Computer Engineering Student** passionate about backend development, cl
 
 ## 📬 Let's Connect
 
-*   💼 **LinkedIn:** [Connect on LinkedIn](YOUR_LINKEDIN_URL)
-*   🐙 **GitHub:** [Follow on GitHub](https://github.com/YOUR_GITHUB_USERNAME)
-*   📧 **Email:** [YOUR_EMAIL@gmail.com](mailto:YOUR_EMAIL@gmail.com)
+*   💼 **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/parth-ahire-a24367288/)
+*   🐙 **GitHub:** [Follow on GitHub](https://github.com/parth9860/parth9860/)
+*   📧 **Email:** [parthaahire12@gmail.com]()
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
