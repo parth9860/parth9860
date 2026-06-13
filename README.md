@@ -1,147 +1,90 @@
-# Hi 👋, I'm Parth Ahire
+# Hi there, I'm Parth Ahire 👋
 
-<h3 align="center">Java Developer | Cloud Computing Enthusiast | AI & Automation Learner</h3>
-
-<p align="center">
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<p align="left">
+  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
+
+### 🚀 Java Developer | Cloud Enthusiast | AI & Automation Learner
+
+I am a **Computer Engineering Student** passionate about backend development, cloud infrastructure, and intelligent workflow automation. I specialize in building robust Java applications and exploring scalable cloud architectures.
 
 ---
 
-## 🚀 About Me
+## 🛠️ Tech Stack & Tools
 
-🎓 Computer Engineering Student
-
-💻 Completed Java Developer Internship at **R3 Systems, Nashik**
-
-🌱 Currently learning **Spring Boot, Docker, Cloud Computing, AI, and Automation**
-
-🔧 Interested in **Backend Development, Cloud Technologies, and Workflow Automation**
-
-☁️ Exploring **Virtualization, Networking, and DevOps**
-
-📚 Solving problems and building real-world projects
-
----
-
-## 💻 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,php,mysql,html,css,js,git,github,docker,linux,vscode,maven,postman" />
+### **Core Technologies**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,php,mysql,html,css,js,maven" />
 </p>
 
----
-
-## 🌱 Currently Learning
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,docker,aws,linux" />
+### **DevOps, Cloud & Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,vscode,postman" />
 </p>
-
-* Spring Boot
-* Docker
-* Cloud Computing
-* AI Automation
-* Networking Concepts
 
 ---
 
 ## 💼 Experience
 
-### 👨‍💻 Java Developer Intern | R3 Systems, Nashik
-
-✔ Worked on Java-based Web Applications
-
-✔ Developed applications using JSP and Servlets
-
-✔ Learned Spring Boot fundamentals
-
-✔ Worked with Database Connectivity and Backend Development
-
-### 🌐 Networking Virtual Internship | Zscaler (AICTE)
-
-✔ Networking Fundamentals
-
-✔ Cyber Security Basics
-
-✔ Cloud Security Concepts
-
-✔ Network Architecture
+<table>
+  <tr>
+    <td><strong>Java Developer Intern</strong><br><em>R3 Systems, Nashik</em></td>
+    <td>
+      • Developed dynamic web applications utilizing <strong>JSP, Servlets, and Spring Boot</strong>.<br>
+      • Implemented secure database connectivity (JDBC) and optimized backend logic.
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Networking Virtual Intern</strong><br><em>Zscaler (AICTE)</em></td>
+    <td>
+      • Studied network architecture, cloud security paradigms, and cyber security fundamentals.<br>
+      • Applied concepts of secure cloud connectivity and data protection.
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🤖 LeetCode Automation
-
-* Automated daily LeetCode problem-solving workflow
-* AI-powered solution generation
-* GitHub integration for solution storage
-* Email notification system
-
-### ☁️ Cloud Computing Projects
-
-* VMware Virtualization
-* Docker Containers
-* Cloud Architecture Concepts
-* Networking Labs
+*   **🤖 LeetCode Automation:** An AI-powered workflow that automatically generates solutions for daily LeetCode problems, syncs them directly to GitHub, and dispatches email notifications.
+*   **☁️ Cloud & Virtualization Labs:** Hands-on infrastructure projects focusing on **VMware Virtualization**, multi-container **Docker** environments, and network architecture testing.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Git Insights & Activity
 
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
-
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+<p align="left">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
 </p>
 
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
 </p>
 
 ---
 
-## 🎯 Goals for 2026
+## 🎯 2026 Focus Area
 
-* Master Spring Boot Development
-* Build Full Stack Applications
-* Learn Microservices Architecture
-* Improve Data Structures & Algorithms
-* Contribute to Open Source Projects
+*   🔹 Mastering Microservices Architecture & Spring Boot
+*   🔹 Designing Full-Stack Scalable Applications
+*   🔹 Advancing Data Structures & Algorithms (DSA) proficiency
+*   🔹 Contributing to Open-Source initiatives
 
 ---
 
-## 📈 Profile Views
+## 📬 Let's Connect
 
-<p align="center">
+*   💼 **LinkedIn:** [Connect on LinkedIn](YOUR_LINKEDIN_URL)
+*   🐙 **GitHub:** [Follow on GitHub](https://github.com/YOUR_GITHUB_USERNAME)
+*   📧 **Email:** [YOUR_EMAIL@gmail.com](mailto:YOUR_EMAIL@gmail.com)
+
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
-
-## 📫 Connect With Me
-
-💼 LinkedIn: YOUR_LINKEDIN_URL
-
-🐙 GitHub: https://github.com/YOUR_GITHUB_USERNAME
-
-📧 [YOUR_EMAIL@gmail.com](mailto:YOUR_EMAIL@gmail.com)
-
----
-
-⭐ Thanks for visiting my profile! Happy Coding 🚀
+<p align="center">Thank you for visiting! Keep building. 🚀</p>
