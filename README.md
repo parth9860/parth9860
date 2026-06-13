@@ -1,9 +1,9 @@
 # Hi there, I'm Parth Ahire 👋
 
 <p align="left">
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/parth-ahire-a24367288/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/parth9860"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:parthaahire12@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
 ### 🚀 Java Developer | Cloud Enthusiast | AI & Automation Learner
@@ -47,27 +47,20 @@ I am a **Computer Engineering Student** passionate about backend development, cl
 
 ---
 
-## 🚀 Featured Projects
-
-*   **🤖 LeetCode Automation:** An AI-powered workflow that automatically generates solutions for daily LeetCode problems, syncs them directly to GitHub, and dispatches email notifications.
-*   **☁️ Cloud & Virtualization Labs:** Hands-on infrastructure projects focusing on **VMware Virtualization**, multi-container **Docker** environments, and network architecture testing.
-
----
-
 ## 📊 Git Insights & Activity
 
 <p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=parth9860&show_icons=true&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth9860&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parth9860&theme=tokyonight" />
 </p>
 
 ---
 
-## 🎯 2026 Focus Area
+## 🎯 2026 Focus Areas
 
 *   🔹 Mastering Microservices Architecture & Spring Boot
 *   🔹 Designing Full-Stack Scalable Applications
@@ -79,11 +72,11 @@ I am a **Computer Engineering Student** passionate about backend development, cl
 ## 📬 Let's Connect
 
 *   💼 **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/parth-ahire-a24367288/)
-*   🐙 **GitHub:** [Follow on GitHub](https://github.com/parth9860/parth9860/)
-*   📧 **Email:** [parthaahire12@gmail.com]()
+*   🐙 **GitHub:** [Follow on GitHub](https://github.com/parth9860)
+*   📧 **Email:** [parthaahire12@gmail.com](mailto:parthaahire12@gmail.com)
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=parth9860&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
