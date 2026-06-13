@@ -1,76 +1,48 @@
-# 👋 Hi there, I'm [Your Name]
+# Hi there, I'm [Your Name]! 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
-[![Twitter Follow](https://img.shields.io/twitter/follow/yourhandle?label=Follow&style=social)](https://twitter.com/yourhandle)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourprofile/)](https://www.linkedin.com/in/yourprofile/)
-
-## 🚀 About Me
-
-I'm a [your role, e.g., software developer, data scientist, frontend engineer] based in [your location]. I love building things that live on the web, solving problems, and learning new technologies.
-
-- 🔭 I’m currently working on **[Project Name or area]**
-- 🌱 I’m currently learning **[Technology/Skill]**
-- 👯 I’m looking to collaborate on **[Type of projects]**
-- 💬 Ask me about **[Topics you can help with]**
-- 📫 How to reach me: [your email or preferred contact method]
-- ⚡ Fun fact: **[Something interesting about you]**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Tech+Blogger" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+### 🚀 About Me
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+I am a passionate **[Your Profession, e.g., Software Engineer / UI/UX Designer / Data Scientist]** from **[Your Location]**. I love building things that live on the internet and solving complex problems.
 
-*(Add/remove badges based on your actual skills)*
+- 🔭 I’m currently working on **[Project Name or Tech Stack]**
+- 🌱 I’m currently learning **[A New Tech or Tool]**
+- 💬 Ask me about **[Topics you love, e.g., React, Python, Anime]**
+- ✉️ How to reach me: **[Your Email]** or **[LinkedIn Link]**
 
 ---
 
-## 📈 GitHub Stats
+### 🛠️ Tech Stack & Tools
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" />
-</div>
-
----
-
-## ✨ Featured Projects
-
-### [Project Name 1](link-to-repo)
-![Repo stars](https://img.shields.io/github/stars/yourusername/project1?style=social)
-![Last Commit](https://img.shields.io/github/last-commit/yourusername/project1)
-
-Brief description of what this project does, the tech stack, and what problem it solves.
-
-### [Project Name 2](link-to-repo)
-![Repo stars](https://img.shields.io/github/stars/yourusername/project2?style=social)
-
-Brief description...
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) |
+| **Backend** | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| **Tools & Database**| ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |
 
 ---
 
-## 📝 Latest Blog Posts (optional)
+### 📊 GitHub Stats
 
-<!-- BLOG-POST-LIST:START -->
-- [Title of your blog post](link)
-- [Another post](link)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 📫 Connect with me
-
-- [Twitter](https://twitter.com/yourhandle)
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [Personal Website](https://yourwebsite.com)
-- [Email](mailto:youremail@example.com)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical" alt="Your Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=radical" alt="Your Streak" width="48%" />
+</p>
 
 ---
 
-⭐️ From [Your Name](https://github.com/yourusername)
+### 🤝 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/YOUR-TWITTER" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
+  </a>
+</p>
