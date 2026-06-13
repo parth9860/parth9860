@@ -37,20 +37,12 @@ Hey there! I'm Parth, a passionate Computer Engineering student who loves buildi
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 </p>
 
-<table align="center">
-  <tr>
-    <td>
-      <ul>
-        <li>🎓 <b>Computer Engineering Student</b></li>
-        <li>💻 <b>Java Developer</b> passionate about backend systems</li>
-        <li>🌱 Currently learning <b>Spring Boot, Docker, Cloud, AI</b></li>
-        <li>🔧 Love building <b>automation workflows</b> with n8n</li>
-        <li>☁️ Exploring <b>Cloud Computing & Virtualization</b></li>
-        <li>📚 Always learning, always building</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+- 🎓 **Computer Engineering Student**
+- 💻 **Java Developer** passionate about backend systems
+- 🌱 Currently learning **Spring Boot, Docker, Cloud, AI**
+- 🔧 Love building **automation workflows** with n8n
+- ☁️ Exploring **Cloud Computing & Virtualization**
+- 📚 Always learning, always building
 
 ---
 
@@ -126,14 +118,6 @@ Hey there! I'm Parth, a passionate Computer Engineering student who loves buildi
 ---
 
 ## 🎯 Current Learning Goals
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microservices-239120?style=for-the-badge&logo=microgen&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/DSA-FF6C37?style=for-the-badge&logo=leetcode&logoColor=white" />
-</p>
 
 | Goal | Status |
 |------|--------|
